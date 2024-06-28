@@ -1,4 +1,4 @@
-## Reinforcement Learning Projects
+## Reinforcement Learning project
 
 This project lists the Reinfrocment learning agents developed using Q learning or Deep Q learning. The following are the project details
 
