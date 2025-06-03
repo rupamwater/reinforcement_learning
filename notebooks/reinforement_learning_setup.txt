@@ -1,0 +1,12 @@
+
+
+conda create -n rlearning python=3.7
+
+
+conda activate rlearning
+
+conda install notebook=6.3.7
+
+conda install gym
+
+
